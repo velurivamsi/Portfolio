@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Vamsi Veluri </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/vamsi-krishna-veluri/">LinkedIn</a> |
+  <a href="https://github.com/velurivamsi">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Working in Health Care domain from past 2 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
